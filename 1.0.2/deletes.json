@@ -1,3 +1,17 @@
 {
-  "deletes": []
+  "deletes": [
+    {
+      "path": "",
+      "type": "file"
+    },
+    {
+      "path": "fffff",
+      "type": "folder",
+      "reason": "jjjjj"
+    },
+    {
+      "path": "",
+      "type": "file"
+    }
+  ]
 }
