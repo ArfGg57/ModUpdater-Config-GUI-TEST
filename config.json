@@ -1,7 +1,7 @@
 {
   "modpackVersion": "1.2.3",
   "configsBaseUrl": "",
-  "modsJson": "mods.json",
+  "modsJson": "test.json",
   "filesJson": "files.json",
   "deletesJson": "deletes.json",
   "checkCurrentVersion": true,
