@@ -1,0 +1,11 @@
+{
+  "modpackVersion": "1.2.3",
+  "configsBaseUrl": "",
+  "modsJson": "mods.json",
+  "filesJson": "files.json",
+  "deletesJson": "deletes.json",
+  "checkCurrentVersion": true,
+  "maxRetries": 3,
+  "backupKeep": 5,
+  "debugMode": false
+}
