@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "display_name": "Entity Culling Fabric/Forge",
+    "file_name": "entityculling-1.6.4-mc1.7.10.jar",
+    "id": "entityculling",
+    "hash": "dd1b15c1abfe3756051987c17924810a4e433a26c29b5defdeccedced15567e7",
+    "installLocation": "mods",
+    "source": {
+      "type": "curseforge",
+      "projectId": 448233,
+      "fileId": 5351930
+    },
+    "since": "1.2.3"
+  },
+  {
+    "display_name": "Shoulder Surfing Reloaded",
+    "file_name": "ShoulderSurfing-1.7.10-2.4.1.jar",
+    "id": "shoulder-surfing-reloaded",
+    "hash": "75ab193022070c547a31eccf2de3f58459403bff218888f8f4216c7d585765d6",
+    "installLocation": "mods",
+    "source": {
+      "type": "curseforge",
+      "projectId": 243190,
+      "fileId": 4635415
+    },
+    "since": "1.2.3"
+  }
+]
