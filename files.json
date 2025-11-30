@@ -1,3 +1,14 @@
 {
-  "files": []
+  "files": [
+    {
+      "display_name": "wooooof",
+      "file_name": "woof",
+      "url": "https://github.com/ArfGg57/ModUpdater-Config/blob/main/files/woof.txt",
+      "downloadPath": "config/",
+      "hash": "15132bd46bb172bd053d1aae07249652eb4d335ad62b85a989cf694f76b2592f",
+      "overwrite": true,
+      "extract": false,
+      "since": "1.2.3"
+    }
+  ]
 }
