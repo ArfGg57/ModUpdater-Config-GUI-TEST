@@ -1,15 +1,1 @@
-[
-  {
-    "display_name": "",
-    "file_name": "",
-    "id": "geckolib",
-    "hash": "8021252ddff1d1cbdbe891cd88a4f5b1edb996836c12d789dc15383748221efd",
-    "installLocation": "mods",
-    "source": {
-      "type": "curseforge",
-      "projectId": 388172,
-      "fileId": 7164579
-    },
-    "since": "1.1.1"
-  }
-]
+[]
