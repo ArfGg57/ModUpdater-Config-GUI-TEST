@@ -1,15 +1,4 @@
 {
   "safetyMode": true,
-  "deletions": [
-    {
-      "version": "1.111.1",
-      "paths": [
-        {
-          "path": "cool.txt",
-          "type": "file",
-          "reason": "aaaaa"
-        }
-      ]
-    }
-  ]
+  "deletions": []
 }
