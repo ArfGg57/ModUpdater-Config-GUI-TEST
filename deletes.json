@@ -1,15 +1,4 @@
 {
   "safetyMode": true,
-  "deletions": [
-    {
-      "version": "1.5.6",
-      "paths": [
-        {
-          "path": "mods/controlling.jar",
-          "type": "file",
-          "reason": "Removed mod: controlling"
-        }
-      ]
-    }
-  ]
+  "deletions": []
 }
