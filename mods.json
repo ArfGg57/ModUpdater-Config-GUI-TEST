@@ -11,5 +11,18 @@
       "fileId": 5507281
     },
     "since": "1.2.3"
+  },
+  {
+    "display_name": "",
+    "file_name": "",
+    "id": "jei",
+    "hash": "",
+    "installLocation": "mods",
+    "source": {
+      "type": "curseforge",
+      "projectId": 238222,
+      "fileId": 7270455
+    },
+    "since": "1.5.6"
   }
 ]
