@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "display_name": "",
+    "file_name": "",
+    "id": "controlling",
+    "hash": "233f5dac426020b9ddd8585b2a0005e632128e4fba1be75d99a356e099d7f58f",
+    "installLocation": "mods",
+    "source": {
+      "type": "curseforge",
+      "projectId": 250398,
+      "fileId": 5507281
+    },
+    "since": "1.2.3"
+  }
+]
