@@ -1,0 +1,15 @@
+[
+  {
+    "display_name": "",
+    "file_name": "",
+    "id": "hbms-nuclear-tech-mod",
+    "hash": "cecb7ca30ea12703d75bb37b8f70d28a66c5b75793084e8351c5278c9c5c07c6",
+    "installLocation": "mods",
+    "source": {
+      "type": "curseforge",
+      "projectId": 235439,
+      "fileId": 6900489
+    },
+    "since": "1.2.3"
+  }
+]
