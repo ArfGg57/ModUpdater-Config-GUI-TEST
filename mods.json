@@ -24,5 +24,18 @@
       "fileId": 4635415
     },
     "since": "1.2.3"
+  },
+  {
+    "display_name": "",
+    "file_name": "",
+    "id": "architectury-api",
+    "hash": "507bbf3043496f0c44068ae5bd31042775f952624eb3988e3c899067edd7dc55",
+    "installLocation": "mods",
+    "source": {
+      "type": "curseforge",
+      "projectId": 419699,
+      "fileId": 7149505
+    },
+    "since": "7.7.7"
   }
 ]
