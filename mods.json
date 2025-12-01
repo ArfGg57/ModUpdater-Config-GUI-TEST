@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "display_name": "",
+    "file_name": "",
+    "id": "mouse-tweaks",
+    "hash": "8b141026e0be476978015a789680f2e550c1bef4518065ff5dbf5ad640ea2164",
+    "installLocation": "mods",
+    "source": {
+      "type": "curseforge",
+      "projectId": 60089,
+      "fileId": 2209265
+    },
+    "since": "4.5.5"
+  }
+]
