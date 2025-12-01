@@ -2,10 +2,15 @@
   "safetyMode": true,
   "deletions": [
     {
-      "version": "1.2.3",
+      "version": "1.2.4",
       "paths": [
         {
-          "path": "123.txt",
+          "path": "mods/hbms-nuclear-tech-mod.jar",
+          "type": "file",
+          "reason": "Removed mod: hbms-nuclear-tech-mod"
+        },
+        {
+          "path": "aa",
           "type": "file"
         }
       ]
